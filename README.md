@@ -1,2 +1,2 @@
 # Data-structures-and-algorithms-with-Python
-if you find this repo useful give it a star
+this repo contains my solutions nd implementations of DSs and some algorithms
